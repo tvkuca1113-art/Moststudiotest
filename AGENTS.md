@@ -15,3 +15,6 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 - The original visual target is the second displayed concept, `exec-2c5a373a-8d8b-46ed-9cd9-d3bcb6ab8c47.png`.
 - Preserve the original website untouched until explicitly authorized.
 - Bosnian spelling, working German language option. Keep test pages out of search indexing.
+
+## Second iteration
+- User rejected the first implementation as insufficiently attractive. Strengthen the complete page, project presentations and mobile composition while keeping the selected forest/lime architectural direction. Continue only in the test repository.
